@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+
+    <!-- Fundo laranja -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M0,0 L360,0 L360,180 L0,180 Z" />
+
+    <!-- Pão de cima -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M130,55 Q180,25 230,55 L235,75 Q180,65 125,75 Z" />
+
+    <!-- Gergelim -->
+    <path android:fillColor="#8B4513" android:pathData="M160,45 Q163,40 166,45 Q163,50 160,45 Z" />
+    <path android:fillColor="#8B4513" android:pathData="M178,38 Q181,33 184,38 Q181,43 178,38 Z" />
+    <path android:fillColor="#8B4513" android:pathData="M196,44 Q199,39 202,44 Q199,49 196,44 Z" />
+
+    <!-- Alface -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M118,78 Q135,70 155,78 Q170,72 185,78 Q200,72 220,78 Q235,70 245,78 L245,88 Q225,80 205,88 Q190,80 175,88 Q160,80 145,88 Q130,80 118,88 Z" />
+
+    <!-- Queijo -->
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M122,88 L242,88 L248,100 L116,100 Z" />
+
+    <!-- Carne -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M120,100 L244,100 L240,115 L124,115 Z" />
+
+    <!-- Tomate -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M123,115 L240,115 L238,122 L125,122 Z" />
+
+    <!-- Pão de baixo -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M125,122 L238,122 Q242,135 238,142 L125,142 Q120,135 125,122 Z" />
+
+    <!-- Texto HamburgueriaZ -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,155 L20,165 L23,165 L23,161 L27,161 L27,165 L30,165 L30,155 L27,155 L27,159 L23,159 L23,155 Z" />
+
+    <!-- Sombra decorativa -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M115,140 Q180,155 248,140 L248,145 Q180,160 115,145 Z" />
+
+</vector>
